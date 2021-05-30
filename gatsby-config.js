@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
+    title: `Mental Strength for Science - Unworkshop`,
     description: ``,
     author: `Mental Strength for Science Unworkshop`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    siteUrl: `https://unworkshop.science`,
     social: {
       twitter: `wang0nya`,
       facebook: ``,
