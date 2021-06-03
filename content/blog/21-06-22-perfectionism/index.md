@@ -10,5 +10,5 @@ Time: 16:00 - 17:30 UK, 17:00 - 18:30 Zurich.
 
 An unworkshop on ``Perfectionism''. Details to follow.
 
-Register: https://ed-ac-uk.zoom.us/meeting/register/tZAsd--upzwiGNMFT-n25RnEDC1_Q0czTCrK
+Register: TBD
 
