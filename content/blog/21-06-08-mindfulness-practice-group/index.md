@@ -6,7 +6,7 @@ img: ./mindfulness.jpg # Add image post (optional)
 tags: []
 ---
 
-Time: 16:00 UK, 17:00 Zurich
+Time: 16:00 - 17:00 UK, 17:00 - 18:00 Zurich.
 
 As part of our Mental Strength for Science Unworkshops we regularly meet
 informally to practice a variety of mindfulness skills. These meetings
