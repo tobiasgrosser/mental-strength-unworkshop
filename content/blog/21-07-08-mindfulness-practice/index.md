@@ -3,7 +3,7 @@ title: Mindfulness Practice
 date: 2021-07-20 16:00:00 +0300
 description: # Add post description (optional)
 img: ./mindfulness.jpg # Add image post (optional)
-tags: []
+tags: [Unworkshop]
 ---
 
 Time: 16:00 - 17:00 UK, 17:00 - 18:00 Zurich.
