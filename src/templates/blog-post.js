@@ -5,12 +5,18 @@ import { GatsbyImage } from 'gatsby-plugin-image'
 
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
+import moment from 'moment-timezone'
 
 import 'katex/dist/katex.min.css'
 
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
+    const date = moment(post.frontmatter.date).tz("Europe/London").format(`MMMM DD`)
+    const time_UK = moment(post.frontmatter.date).tz("Europe/London").format(`HH:mm`)
+    const time_CH = moment(post.frontmatter.date).tz("Europe/Zurich").format(`HH:mm`)
+    const end_UK = moment(post.frontmatter.end).tz("Europe/London").format(`HH:mm`)
+    const end_CH = moment(post.frontmatter.end).tz("Europe/Zurich").format(`HH:mm`)
 
     return (
       <DefaultLayout>
@@ -38,7 +44,7 @@ class BlogPostTemplate extends React.Component {
                 <header className="header-page">
                   <h1 className="page-title">{post.frontmatter.title}</h1>
                   <div className="page-date">
-                    <span>{post.frontmatter.date}</span>
+                    <span>{date}, {time_UK}-{end_UK} (UK), {time_CH}-{end_CH} (CH) </span>
                   </div>
                 </header>
                 <div dangerouslySetInnerHTML={{ __html: post.html }} />
@@ -79,7 +85,8 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "YYYY, MMM DD")
+        date
+        end
         tags
         img {
           childImageSharp {
