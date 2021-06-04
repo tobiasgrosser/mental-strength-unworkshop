@@ -1,12 +1,11 @@
 ---
 title: Finding and Following Your Passion
-date: 2021-05-12 00:16:00 +0300
+date: 2021-05-12 16:00:00 +0100
+end: 2021-05-12 17:30:00 +0100
 description: # Add post description (optional)
 img: ./passion.jpg # Add image post (optional)
 tags: [Unworkshop]
 ---
-
-Time: 16:00-17:30 UK, 17:00-18:30 Zurich.
 
 Passion is often thought of as a strong drive coupled with intense enjoyment. As such, passion can be used as a powerful motivator and a guiding light in life. If you know what you are passionate about and can align your life accordingly, you are on the path to sustainable happiness. It has been said that “when your work is your passion, you never have to work another day in your life”.
 However, discovering one’s passion(s) is not trivial; most of us spend little time reflecting on what we are passionate about, and even for those who do take the time to reflect, the answer may be elusive. And the obstacles don’t end there. Once you know what you want to do, you still have to overcome your own inhibitions and fears, real and perceived expectations from your surroundings, and potentially make scary and life-changing decisions.

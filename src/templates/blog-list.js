@@ -3,6 +3,8 @@ import { Link, graphql } from 'gatsby'
 
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
+import moment from 'moment-timezone'
+
 
 class BlogIndex extends React.Component {
   render() {
@@ -23,6 +25,11 @@ class BlogIndex extends React.Component {
         />
         <div className="content-box clearfix">
           {posts.map(({ node }) => {
+    	    const date = moment(node.frontmatter.date).tz("Europe/London").format(`MMMM DD`)
+    	    const time_UK = moment(node.frontmatter.date).tz("Europe/London").format(`HH:mm`)
+    	    const time_CH = moment(node.frontmatter.date).tz("Europe/Zurich").format(`HH:mm`)
+    	    const end_UK = moment(node.frontmatter.end).tz("Europe/London").format(`HH:mm`)
+    	    const end_CH = moment(node.frontmatter.end).tz("Europe/Zurich").format(`HH:mm`)
             return (
               <article className="post" key={node.fields.slug}>
                 {node.frontmatter.img &&
@@ -42,7 +49,7 @@ class BlogIndex extends React.Component {
                   </h2>
                   <p>{node.excerpt}</p>
                   <span className="post-date">
-                    {node.frontmatter.date}
+                    {date}, {time_UK}-{end_UK} (UK), {time_CH}-{end_CH} (CH)
                   </span>
                 </div>
               </article>
@@ -98,7 +105,8 @@ export const pageQuery = graphql`
           }
           timeToRead
           frontmatter {
-            date(formatString: "YYYY, MMM DD")
+            date
+            end 
             title
             img {
               childImageSharp {

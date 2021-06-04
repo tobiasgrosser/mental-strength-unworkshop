@@ -1,12 +1,11 @@
 ---
 title: Mindfulness Practice
-date: 2021-06-08 16:00:00 +0300
+date: 2021-06-08 16:00:00 +0100
+end: 2021-06-08 17:00:00 +0100
 description: # Add post description (optional)
 img: ./mindfulness.jpg # Add image post (optional)
 tags: [Unworkshop]
 ---
-
-Time: 16:00 - 17:00 UK, 17:00 - 18:00 Zurich.
 
 As part of our Mental Strength for Science Unworkshops we regularly meet
 informally to practice a variety of mindfulness skills. These meetings
