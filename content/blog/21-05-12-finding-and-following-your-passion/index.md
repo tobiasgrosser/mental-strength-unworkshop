@@ -20,3 +20,4 @@ I am a 2nd year PhD student at ETH Zürich working on applied cryptography. My c
 Outside of work I like to hike in the mountains, ski, bake sourdough bread and read. Lately I've been reading about mindfulness and well-being, and thanks to the unworkshops I have gotten into the habit of meditating regularly.
 I joined the Scientific Excellence and Well-Being initiative [1] at ETH because I think a lot of really bright people in academia who are very passionate about their work aren't as happy as they could be (including myself), and I would like to help change that. I see a potential for a different approach to doing research, and think that together we have the power to bring about that change, starting with ourselves.
 
+![Matilda](./matilda.jpg)
