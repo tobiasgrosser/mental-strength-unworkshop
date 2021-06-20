@@ -12,11 +12,12 @@ import 'katex/dist/katex.min.css'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const date = moment(post.frontmatter.date).tz("Europe/London").format(`MMMM DD`)
-    const time_UK = moment(post.frontmatter.date).tz("Europe/London").format(`HH:mm`)
-    const time_CH = moment(post.frontmatter.date).tz("Europe/Zurich").format(`HH:mm`)
-    const end_UK = moment(post.frontmatter.end).tz("Europe/London").format(`HH:mm`)
-    const end_CH = moment(post.frontmatter.end).tz("Europe/Zurich").format(`HH:mm`)
+    const m = moment(post.frontmatter.date, 'YYYY-MM-DD hh:mm:ss ZZ')
+    const date = m.format(`MMMM DD`)
+    const time_UK = m.tz("Europe/London").format(`HH:mm`)
+    const time_CH = m.tz("Europe/Zurich").format(`HH:mm`)
+    const end_UK = m.tz("Europe/London").format(`HH:mm`)
+    const end_CH = m.tz("Europe/Zurich").format(`HH:mm`)
 
     return (
       <DefaultLayout>

@@ -25,11 +25,12 @@ class BlogIndex extends React.Component {
         />
         <div className="content-box clearfix">
           {posts.map(({ node }) => {
-    	    const date = moment(node.frontmatter.date).tz("Europe/London").format(`MMMM DD`)
-    	    const time_UK = moment(node.frontmatter.date).tz("Europe/London").format(`HH:mm`)
-    	    const time_CH = moment(node.frontmatter.date).tz("Europe/Zurich").format(`HH:mm`)
-    	    const end_UK = moment(node.frontmatter.end).tz("Europe/London").format(`HH:mm`)
-    	    const end_CH = moment(node.frontmatter.end).tz("Europe/Zurich").format(`HH:mm`)
+	    const m = moment(node.frontmatter.date, 'YYYY-MM-DD hh:mm:ss ZZ')
+	    const date = m.format(`MMMM DD`)
+	    const time_UK = m.tz("Europe/London").format(`HH:mm`)
+	    const time_CH = m.tz("Europe/Zurich").format(`HH:mm`)
+	    const end_UK = m.tz("Europe/London").format(`HH:mm`)
+	    const end_CH = m.tz("Europe/Zurich").format(`HH:mm`)
             return (
               <article className="post" key={node.fields.slug}>
                 {node.frontmatter.img &&
