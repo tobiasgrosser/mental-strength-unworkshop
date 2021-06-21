@@ -18,3 +18,5 @@ Informatics, and his interests include programming languages and applied
 mathematics (category theory, logic, algebra).
 
 ![Ohad Kammar](./ohad-kammar-fancy.jpg)
+
+Register: https://ed-ac-uk.zoom.us/meeting/register/tZAsd--upzwiGNMFT-n25RnEDC1_Q0czTCrK
