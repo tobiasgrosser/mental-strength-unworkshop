@@ -8,4 +8,4 @@ tags: [Reading Group]
 ---
 
 We read Aristotle's Nicomachean Ethics in an informal reading group to discuss
-the questions such as ``what is happiness?'' and ``how should men life?''
+the questions such as "what is happiness?" and "how should men life?"
