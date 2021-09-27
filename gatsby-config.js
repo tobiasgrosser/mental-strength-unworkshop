@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Mental Strength for Science - Unworkshop`,
+    title: `Scientific Excellence and Well Being - Unworkshop`,
     description: ``,
-    author: `Mental Strength for Science Unworkshop`,
+    author: `Scientific Excellence and Well Being Initiative`,
     siteUrl: `https://unworkshop.science`,
     social: {
       twitter: `wang0nya`,
