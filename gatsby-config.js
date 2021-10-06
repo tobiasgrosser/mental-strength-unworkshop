@@ -36,7 +36,6 @@ module.exports = {
             options: {
               maxWidth: 970,
 	      withWebp: true,
-	      withAvif: true,
             },
           },
           {
