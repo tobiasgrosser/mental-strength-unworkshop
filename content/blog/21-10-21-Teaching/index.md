@@ -19,4 +19,3 @@ effective and inspiring teachers.
 __Location:__ ETH Zurich (details tbd)  
 __Time:__ tbd  
 __Organizer:__ Florian Meier
-
