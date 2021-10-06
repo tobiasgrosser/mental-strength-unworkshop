@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Scientific Excellence and Well Being - Unworkshop`,
     description: ``,
-    author: `Scientific Excellence and Well Being Initiative`,
+    author: `Scientific Excellence and Well Being`,
     siteUrl: `https://unworkshop.science`,
     social: {
       twitter: `wang0nya`,
