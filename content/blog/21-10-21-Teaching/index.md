@@ -16,7 +16,7 @@ will discuss the various tricks and tactics each of us uses when we are
 teaching and we will practice various techniques that help us to be more
 effective and inspiring teachers.
 
-Location: ETH Zurich (details tbd)
-Time: tbd
+Location: ETH Zurich (details tbd)  
+Time: tbd  
 Organizer: Florian Meier
 
