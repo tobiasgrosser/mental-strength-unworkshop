@@ -3,7 +3,7 @@ title: How to prioritize?
 date: 2021-08-25 18:00:00 +0100
 end: 2021-08-15 20:00:00 +0100
 description: # Add post description (optional)
-img: ./prioritization.jpg
+img: ./prioritization.png
 tags: [Unworkshop]
 ---
 
