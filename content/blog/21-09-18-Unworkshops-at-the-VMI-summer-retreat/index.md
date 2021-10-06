@@ -1,6 +1,6 @@
 ---
 title: Unworkshops at the VMI summer retreat
-date: 2021-09-14 9:00:00 +0100
+date: 2021-09-14 09:00:00 +0100
 end: 2021-09-14 16:00:00 +0100
 description: # Add post description (optional)
 img: ./summer-retreat.jpg # Add image post (optional)

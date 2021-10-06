@@ -1,6 +1,6 @@
 ---
 title: A canoeing journey of discovery to your strengths, resources and motivation
-date: 2021-06-18 9:00:00 +0100
+date: 2021-06-18 09:00:00 +0100
 end: 2021-06-20 16:00:00 +0100
 description: # Add post description (optional)
 img: ./canoe-landscape.jpg # Add image post (optional)
