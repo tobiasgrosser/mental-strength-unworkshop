@@ -10,13 +10,18 @@ const Content = styled.div`
 `
 
 const Tag = styled.div`
-	color: white;
 	float: right;
+	color: white;
 	padding: .5em;
 	font-weight: bold;
 	text-align: center;
 	border-bottom-left-radius: 15px;
 	margin-left: .5em;
+	@media screen and (max-width: 992px) {
+		width: 100%;
+		border-bottom-right-radius: 0px;
+		border-bottom-left-radius: 0px;
+	}
 `
 
 const TagETH = styled(Tag)`
