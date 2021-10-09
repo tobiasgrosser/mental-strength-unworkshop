@@ -4,7 +4,32 @@ import { Link, graphql } from 'gatsby'
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
 import moment from 'moment-timezone'
+import styled from "@emotion/styled"
 
+const Content = styled.div`
+`
+
+const Tag = styled.div`
+	color: white;
+	float: right;
+	padding: .5em;
+	font-weight: bold;
+	text-align: center;
+	border-bottom-left-radius: 15px;
+	margin-left: .5em;
+`
+
+const TagETH = styled(Tag)`
+	background-color: #215CAF;
+`
+
+const TagEDI = styled(Tag)`
+	background-color: #D50032;
+`
+
+const TagOnline = styled(Tag)`
+	background-color: #007894;
+`
 
 class BlogIndex extends React.Component {
   render() {
@@ -45,6 +70,10 @@ class BlogIndex extends React.Component {
                       }}
                     />
                   )}
+                <Content>
+		{ node.frontmatter.tags.includes('ETH') && <TagETH>In Person | ETH</TagETH>}
+		{ node.frontmatter.tags.includes('EDI') && <TagEDI>In Person | Edinburgh</TagEDI>}
+		{ (!node.frontmatter.tags.includes('ETH') && !node.frontmatter.tags.includes('EDI')) && <TagOnline>Online</TagOnline>}
                 <div className="post-content">
                   <h2 className="post-title">
                     <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
@@ -54,6 +83,7 @@ class BlogIndex extends React.Component {
                     {date}, {time_UK}-{end_UK} (UK), {time_CH}-{end_CH} (CH)
                   </span>
                 </div>
+		</Content>
               </article>
             )
           })}
@@ -110,6 +140,7 @@ export const pageQuery = graphql`
             date
             end 
             title
+	    tags
             img {
               childImageSharp {
                 gatsbyImageData(placeholder: BLURRED, layout: FULL_WIDTH, formats: [AUTO, AVIF, WEBP])

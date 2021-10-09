@@ -8,6 +8,8 @@
     "url": "https://github.com/wangonya/flexible-gatsby/issues"
   },
   "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
     "gatsby": "^3.1.0",
     "gatsby-plugin-feed": "^3.1.0",
     "gatsby-plugin-google-analytics": "^3.1.0",
