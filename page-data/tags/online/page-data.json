@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/online/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/21-12-01-Communication/"},"frontmatter":{"title":"Communication","date":"October 21, 2021"}}}]}},"pageContext":{"tag":"Online"}},
+    "staticQueryHashes": ["2478211480"]}

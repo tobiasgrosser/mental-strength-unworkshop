@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-tags-js",
     "path": "/tags/",
-    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"ETH","totalCount":3},{"fieldValue":"Reading Group","totalCount":1},{"fieldValue":"Unworkshop","totalCount":12}]}},"pageContext":{}},
+    "result": {"data":{"allMarkdownRemark":{"group":[{"fieldValue":"ETH","totalCount":3},{"fieldValue":"Online","totalCount":1},{"fieldValue":"Reading Group","totalCount":1},{"fieldValue":"Unworkshop","totalCount":13}]}},"pageContext":{}},
     "staticQueryHashes": ["2478211480"]}
