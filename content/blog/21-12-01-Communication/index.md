@@ -1,7 +1,7 @@
 ---
 title: Communication
-date: 2021-10-21 16:00:00 +0100
-end: 2021-10-21 19:00:00 +0100
+date: 2021-12-01 16:00:00 +0100
+end: 2021-12-01 19:00:00 +0100
 description: # Add post description (optional)
 img: ./communication.jpg # Add image post (optional)
 tags: [Unworkshop, Online]
