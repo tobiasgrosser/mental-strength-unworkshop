@@ -19,5 +19,5 @@ organized a series of unworkshops. They included the following topics:
 - Purpose of my Work
 - Reflection on my Values and Motivation
 
-![Matilda is running an Unworkshop](matilda.png)
+![Matilda is running an Unworkshop](./matilda.png)
 
