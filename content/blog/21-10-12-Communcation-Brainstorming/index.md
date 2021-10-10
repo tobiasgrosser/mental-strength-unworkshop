@@ -7,11 +7,10 @@ img: ./communication.jpg # Add image post (optional)
 tags: [Brainstorming, Online]
 ---
 
-Communication is central to science. On December 1st, we will be organizing
-an [Unworkshop on Communication](https://unworkshop.science/21-12-01-Communication/) on
-communication. To prepare for this unworkshop, we will have a small kick-off meeting
-among the organizers and anybody else interested in taking part or observing the
-organization of an unworkshop.
+Communication is central to science. To prepare for the [Communcation
+Unworkshop](https://unworkshop.science/21-12-01-Communication/) on December
+1st, we will have a small kick-off meeting among the organizers and anybody
+interested in taking part or observing the organization of an unworkshop.
 
 __Location:__ [https://meet.jit.si/UnworkshopBrainstormingCommuncation](https://meet.jit.si/UnworkshopBrainstormingCommuncation)
 __Organizer:__ Florian Meier + Tobias Grosser
