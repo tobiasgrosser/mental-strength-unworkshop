@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/brainstorming/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/21-10-26-Communcation-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 26, 2021"}}},{"node":{"fields":{"slug":"/21-10-12-Communcation-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 12, 2021"}}}]}},"pageContext":{"tag":"Brainstorming"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/21-10-26-Communication-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 26, 2021"}}},{"node":{"fields":{"slug":"/21-10-12-Communication-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 12, 2021"}}}]}},"pageContext":{"tag":"Brainstorming"}},
     "staticQueryHashes": ["2478211480"]}
