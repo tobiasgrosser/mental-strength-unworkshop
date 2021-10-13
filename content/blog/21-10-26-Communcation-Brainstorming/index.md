@@ -1,7 +1,7 @@
 ---
 title: Communication - Brainstorming
-date: 2021-10-18 16:00:00 +0100
-end: 2021-10-18 17:30:00 +0100
+date: 2021-10-26 16:00:00 +0100
+end: 2021-10-26 17:00:00 +0100
 description: # Add post description (optional)
 img: ./communication.jpg # Add image post (optional)
 tags: [Brainstorming, Online]
