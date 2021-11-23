@@ -1,5 +1,5 @@
 ---
-title: Unworkshop - How to establish more human connection
+title: Unworkshop - Compasionate Communication
 date: 2021-12-01 16:00:00 +0100
 end: 2021-12-01 18:00:00 +0100
 description: # Add post description (optional)
