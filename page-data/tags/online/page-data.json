@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/online/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/21-12-01-Communication/"},"frontmatter":{"title":"Unworkshop - How to establish more human connection","date":"December 01, 2021"}}},{"node":{"fields":{"slug":"/21-10-26-Communication-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 26, 2021"}}},{"node":{"fields":{"slug":"/21-10-12-Communication-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 12, 2021"}}}]}},"pageContext":{"tag":"Online"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/21-12-01-Communication/"},"frontmatter":{"title":"Unworkshop - Compasionate Communication","date":"December 01, 2021"}}},{"node":{"fields":{"slug":"/21-10-26-Communication-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 26, 2021"}}},{"node":{"fields":{"slug":"/21-10-12-Communication-Brainstorming/"},"frontmatter":{"title":"Communication - Brainstorming","date":"October 12, 2021"}}}]}},"pageContext":{"tag":"Online"}},
     "staticQueryHashes": ["2478211480"]}
