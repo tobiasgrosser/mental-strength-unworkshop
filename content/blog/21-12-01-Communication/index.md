@@ -1,7 +1,7 @@
 ---
 title: Compassionate Communication
-date: 2021-12-01 16:00:00 +0100
-end: 2021-12-01 18:00:00 +0100
+date: 2021-12-01 16:00:00 +0000
+end: 2021-12-01 18:00:00 +0000
 description: # Add post description (optional)
 img: ./communication.jpg # Add image post (optional)
 tags: [Unworkshop, Online]
