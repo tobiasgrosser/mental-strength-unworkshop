@@ -1,7 +1,7 @@
 ---
 title: Saying No
-date: 2021-12-15 09:00:00 +0200
-end: 2021-12-15 14:00:00 +0200
+date: 2021-12-15 09:00:00 +0100
+end: 2021-12-15 14:00:00 +0100
 description: # Add post description (optional)
 img: ./saying-no.jpg # Add image post (optional)
 tags: [Unworkshop, ETH]
