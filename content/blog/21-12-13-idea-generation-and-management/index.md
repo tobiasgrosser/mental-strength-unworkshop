@@ -39,7 +39,7 @@ our it with our research interests?
 <br />
 
 **Registration:** [Sign-up for us to plan ahead](https://forms.gle/UgnpU9PKXfoUioSB6)  
-**Location:** Informatics Forum, Room 'MiniForum 2' (4th floor, next to the roof terrace)
+**Location:** Informatics Forum, Room 'MiniForum 2' (4th floor, next to the roof terrace)  
 **Organizers:** Alexander Viand (ETH),  Ohad Kamar, Tobias Grosser
 
 <br />
