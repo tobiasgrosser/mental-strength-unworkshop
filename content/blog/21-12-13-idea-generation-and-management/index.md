@@ -22,7 +22,7 @@ Science is all about generating ideas and executing them!
 You likely already developed your own sophisticated strategies to master these
 questions. Maybe you use open-source as a tool to enable collaboration, take
 inspiration from improv theater to brainstorm effectively, or take advantage of
-teaching and supervision as a mean to get in touch with researched-focused
+teaching and supervision to get in touch with researched-focused
 students early on?
 
 In this Unworkshop, we will approach the practical side of idea generation and
@@ -39,7 +39,7 @@ our it with our research interests?
 <br />
 
 **Registration:** [Sign-up for us to plan ahead](https://forms.gle/UgnpU9PKXfoUioSB6)  
-**Location:** Informatic Forum, Room 'MiniForum 2'
+**Location:** Informatics Forum, Room 'MiniForum 2' (4th floor, next to the roof terrace)
 
 <br />
 
