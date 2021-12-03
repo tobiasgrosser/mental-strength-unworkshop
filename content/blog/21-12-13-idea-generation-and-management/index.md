@@ -18,6 +18,7 @@ Science is all about generating ideas and executing them!
 - Do you wonder how to contribute meaningfully to 10 papers at the same time,
   if writing one already takes all your time?
 
+
 You likely already developed your own sophisticated strategies to master these
 questions. Maybe you use open-source as a tool to enable collaboration, take
 inspiration from improv theater to brainstorm effectively, or take advantage of
@@ -34,5 +35,14 @@ our it with our research interests?
 - Let's develop a powerful toolbox of strategies to create and execute our
   personal scientific visions!
 - ...
+
+<br />
+
+**Registration:** [Sign-up for us to plan ahead](https://forms.gle/UgnpU9PKXfoUioSB6)  
+**Location:** Informatic Forum, Room 'MiniForum 2'
+
+<br />
+
+<br />
 
 ![Women having an idea](./ideas-woman.jpg)
