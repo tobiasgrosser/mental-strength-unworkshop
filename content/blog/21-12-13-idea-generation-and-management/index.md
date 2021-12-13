@@ -7,7 +7,7 @@ img: ./ideas.jpg # Add image post (optional)
 tags: [Unworkshop, EDI]
 ---
 
-** Due to COVID travel restrictions this workshop is postponed to 2022 **
+**Due to COVID travel restrictions this workshop is postponed to 2022**
 
 Science is all about generating ideas and executing them!
 
