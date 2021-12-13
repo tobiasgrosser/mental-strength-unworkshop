@@ -7,6 +7,8 @@ img: ./ideas.jpg # Add image post (optional)
 tags: [Unworkshop, EDI]
 ---
 
+** Due to COVID travel restrictions this workshop is postponed to 2022 **
+
 Science is all about generating ideas and executing them!
 
 - Have you ever observed a researcher with a seemingly endless pipeline of
@@ -38,7 +40,6 @@ our it with our research interests?
 
 <br />
 
-**Registration:** [Sign-up for us to plan ahead](https://forms.gle/UgnpU9PKXfoUioSB6)  
 **Location:** Informatics Forum, Room 'MiniForum 2' (4th floor, next to the roof terrace)  
 **Organizers:** Alexander Viand (ETH),  Ohad Kamar, Tobias Grosser
 
