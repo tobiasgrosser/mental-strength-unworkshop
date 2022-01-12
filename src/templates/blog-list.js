@@ -44,8 +44,8 @@ class BlogIndex extends React.Component {
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
-    const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
-    const nextPage = (currentPage + 1).toString()
+    const prevPage = '/' + (currentPage - 1 === 1 ? '/' : (currentPage - 1).toString())
+    const nextPage = '/' + ((currentPage + 1).toString())
 
     return (
       <DefaultLayout>
@@ -95,22 +95,23 @@ class BlogIndex extends React.Component {
           <div className="container">
             <nav className="pagination" role="navigation">
               <ul>
-                {!isFirst && (
-                  <p>
-                    <Link to={prevPage} rel="prev" className="newer-posts">
-                      ← Previous Page
-                    </Link>
-                  </p>
-                )}
                 <p>
+                  {!isFirst && (
+                      <Link to={prevPage} rel="prev" className="newer-posts">
+                        ← Previous Page
+                      </Link>
+                  )}
+
+                  {!isFirst && !isLast && (
+		      <> | </>
+                  )}
+
+                  {!isLast && (
+                      <Link to={nextPage} rel="next" className="older-posts">
+                        Next Page →
+                      </Link>
+                  )}
                 </p>
-                {!isLast && (
-                  <p>
-                    <Link to={nextPage} rel="next" className="older-posts">
-                      Next Page →
-                    </Link>
-                  </p>
-                )}
               </ul>
             </nav>
           </div>
