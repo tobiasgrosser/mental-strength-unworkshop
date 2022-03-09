@@ -1,7 +1,7 @@
 ---
 title: Hands-On Research Skills
-date: 2022-05-05 15:00:00 +0100
-end: 2022-05-05 17:00:00 +0100
+date: 2022-05-05 14:00:00 +0100
+end: 2022-05-05 16:00:00 +0100
 description: # Add post description (optional)
 img:  # Add image post (optional)
 tags: [Unworkshop, ETH]

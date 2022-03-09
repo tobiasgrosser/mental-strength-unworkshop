@@ -11,8 +11,6 @@ tags: [ETH]
 You will experience a day on a beautiful river, you’ll learn some canoeing basics and cook and enjoy a delicious outdoor meal together with your colleagues. The questions ‘What gives me energy and what keeps me in the flow?’ will accompany us during the day. You will become more aware about your sources of energy and motivation. You can look forward to fun and deep discussions with your colleagues.
 
 
-<img style="margin:1em" align="right" src="./Spass-im-Kanu.jpg" title="Spass im Kanu" width="350">
-
 
 ### When, where and how?  
 Date: Saturday, June 25, 2022  
@@ -20,7 +18,6 @@ Time: 9:00 - 21:00
 
 Location will depend on weather and water levels. You will leave from Zurich HB between 8 and 9 am and our meeting point is max 1h away (Neuhausen, Bremgarten or Bütschwil). We will have a joint picnic for lunch and cook a dinner together on the fire.  
 
-<img style="margin:1em" align="right" src="./farbiges-picknick-am-fluss.jpg" title="Spass im Kanu" width="350">
 
 What to bring:
 -Food: 1) Your favourite ingredient for a shared picnic. 2) Some ingredient that is a good source of nutrition for you and can be put into a creative pasta sauce.
