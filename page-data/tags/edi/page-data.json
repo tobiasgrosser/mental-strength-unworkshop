@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/edi/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/22-04-27-evolving-ideas/"},"frontmatter":{"title":"Crafting Exquisite Ideas!","date":"April 27, 2022"}}},{"node":{"fields":{"slug":"/21-12-13-idea-generation-and-management/"},"frontmatter":{"title":"Generating and Executing Ideas","date":"December 13, 2021"}}},{"node":{"fields":{"slug":"/21-12-10-Outdoor-retreat-scotland/"},"frontmatter":{"title":"Outdoor Retreat - Firbush","date":"December 10, 2021"}}}]}},"pageContext":{"tag":"EDI"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/22-04-27-crafting-exquisite-ideas/"},"frontmatter":{"title":"Crafting Exquisite Ideas!","date":"April 27, 2022"}}},{"node":{"fields":{"slug":"/21-12-13-idea-generation-and-management/"},"frontmatter":{"title":"Generating and Executing Ideas","date":"December 13, 2021"}}},{"node":{"fields":{"slug":"/21-12-10-Outdoor-retreat-scotland/"},"frontmatter":{"title":"Outdoor Retreat - Firbush","date":"December 10, 2021"}}}]}},"pageContext":{"tag":"EDI"}},
     "staticQueryHashes": ["2478211480"]}
