@@ -25,9 +25,9 @@ idea that may need some polishing.
 
 Join us for an experimental afternoon and play with us the science game.
 
-Your Hosts:
+## Your Hosts
 
-Alexander Viand
+**Alexander Viand**
 
 **Ohad Kammar**
 
@@ -37,4 +37,4 @@ mathematics (category theory, logic, algebra).
 
 ![Ohad Kammar](./ohad-kammar-fancy.jpg)
 
-Tobias Grosser
+**Tobias Grosser**
