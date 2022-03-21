@@ -29,6 +29,12 @@ Your Hosts:
 
 Alexander Viand
 
-Ohad Kammar
+**Ohad Kammar**
+
+Ohad is a Senior Research Fellow at the University of Edinburgh School of
+Informatics, and his interests include programming languages and applied
+mathematics (category theory, logic, algebra).
+
+![Ohad Kammar](./ohad-kammar-fancy.jpg)
 
 Tobias Grosser
