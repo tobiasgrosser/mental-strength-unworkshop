@@ -29,6 +29,8 @@ Join us for an experimental afternoon and play with us the science game.
 
 **Alexander Viand**
 
+![Alexander Viand](./alex.jpg)
+
 **Ohad Kammar**
 
 Ohad is a Senior Research Fellow at the University of Edinburgh School of
@@ -38,3 +40,5 @@ mathematics (category theory, logic, algebra).
 ![Ohad Kammar](./ohad-kammar-fancy.jpg)
 
 **Tobias Grosser**
+
+![Tobias Grosser](./grosser.jpg)
