@@ -3,7 +3,7 @@ title: How to prioritize - workshop
 date: 2022-05-24 17:30:00 +0100
 end: 2022-05-24 19:30:00 +0100
 description: # Add post description (optional)
-img: # ./prioritization.jpg Add image post (optional)
+img: ./prioritization.jpg # Add image post (optional)
 tags: [Online]
 ---
 
