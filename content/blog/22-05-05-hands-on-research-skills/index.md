@@ -3,7 +3,7 @@ title: Hands-On Research Skills
 date: 2022-05-05 14:00:00 +0100
 end: 2022-05-05 16:00:00 +0100
 description: # Add post description (optional)
-img:  # Add image post (optional)
+img: ./workshop.jpg # Add image post (optional)
 tags: [Unworkshop, ETH]
 ---
 
@@ -27,10 +27,3 @@ June 2, 15:00-17:00, Facilitator: Menna El-Assady
 
 #### How to review a paper?  And Ethics in Science
 June 9, 15:00-17:00, Facilitator: Menna El-Assady
-
-
-We go food shopping for our jointly cooked meals in Turbenthal. Afterwards we do a shuttle by car to our location: https://www.gruppenhaus.ch/de/haus/partyhaus/neugueetli-steinenbach/400
-
-What to bring?
- - Sleeping bag (if you dont have one, contact Flo)
- - Whatever you need for the weekend.
