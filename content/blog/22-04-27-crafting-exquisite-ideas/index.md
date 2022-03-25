@@ -10,10 +10,10 @@ tags: [EDI]
 You have amazing ideas but struggle to make them shine? Ideas pop up randomly
 in your head: you follow them, forget, see them pop up again? Or
 do you use a diary, git repo, or org-mode file to store your ideas?  While we
-(as scientists) sometimes track ideas conciously, our habits to evolve and
+(as scientists) sometimes track ideas consciously, our habits to evolve and
 polish ideas are rarely deliberate. Yet, sometimes we experience the perfect
 moment: a whiteboard discussion, a blog article, a deep insight while taking a
-bath, ... and, suddently, a rough idea turns into a polished insight. Somehow,
+bath, ... and, suddenly, a rough idea turns into a polished insight. Somehow,
 we seem to know how to develop exquisite ideas!
 
 In this unworkshop, we will crowd-source best practices of how to evolve
@@ -23,7 +23,7 @@ ideas into 'science games', small deliberate activities which we can
 experience, practice, and use deliberately whenever we encounter a new rough
 idea that may need some polishing.
 
-Join us for an experimental afternoon and play with us the science game.
+Join us for an experimental afternoon and play the science game with us.
 
 ## Your Hosts
 
