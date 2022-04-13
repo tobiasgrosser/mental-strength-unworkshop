@@ -29,7 +29,7 @@ Join us for an experimental afternoon and play the science game with us.
 
 **Alexander Viand**
 
-Alexander Viand is a doctoral student & research assistant in the Applied Cryptography Group at ETH Zürich and a member of the Privacy Preserving Systems Lab. His interests include usable security and privacy, privacy enhancing technologies, and the interactions between these technologies and society. In his research, he works with secure computation technologies including Fully Homomorphic Encryption, trying to make these techniques more accessible to non-experts by developing new systems, tools and abstractions
+When he isn't visiting UoE, Alexander Viand is a PhD student at ETH Zurich. There, he's active in the scientific staff association (VMI) and had the pleasure to help coordinate the Scientific Excellence & Well-Being initiative. His research focuses on making advanced cryptographic techniques such as Fully Homomorphic Encryption accessible to non-experts by developing new systems, tools and abstractions.
 
 ![Alexander Viand](./alex.jpg)
 
