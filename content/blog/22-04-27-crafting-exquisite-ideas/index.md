@@ -29,15 +29,16 @@ Join us for an experimental afternoon and play the science game with us.
 
 **Alexander Viand**
 
-When he isn't visiting UoE, Alexander Viand is a PhD student at ETH Zurich. There, he's active in the scientific staff association (VMI) and had the pleasure to help coordinate the Scientific Excellence & Well-Being initiative. His research focuses on making advanced cryptographic techniques such as Fully Homomorphic Encryption accessible to non-experts by developing new systems, tools and abstractions.
+When he isn't visiting UoE, Alexander Viand is a PhD student at ETH Zurich. There, he's active in the scientific staff association (VMI) and had the pleasure to help coordinate the [Scientific Excellence & Well-Being initiative](http://vmi.ethz.ch/wellbeing/). His research focuses on making advanced cryptographic techniques such as Fully Homomorphic Encryption accessible to non-experts by developing new systems, tools and abstractions.
 
 ![Alexander Viand](./alex.jpg)
 
 **Ohad Kammar**
 
-Ohad is a Senior Research Fellow at the University of Edinburgh School of
-Informatics, and his interests include programming languages and applied
-mathematics (category theory, logic, algebra).
+[Ohad Kammar](https://www.denotational.co.uk/) is a Senior Research Fellow at
+the University of Edinburgh School of Informatics, and his interests include
+programming languages and applied mathematics (category theory, logic,
+algebra).
 
 ![Ohad Kammar](./ohad-kammar-fancy.jpg)
 
