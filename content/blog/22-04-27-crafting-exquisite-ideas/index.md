@@ -25,7 +25,23 @@ idea that may need some polishing.
 
 Join us for an experimental afternoon and play the science game with us.
 
+Please register here: [https://doodle.com/meeting/participate/id/aKrLowre](https://doodle.com/meeting/participate/id/aKrLowre)
+
 ## Your Hosts
+
+**Will Naameh alias MC Hammersmith**
+
+[Will Naameh](willnaamehimprov.com) is an improv theater artists from Edinburgh. He started performing improv in 2006. Originally from London, he has been based in Edinburgh since 2010.
+
+He has trained in improv with some of the world's leading schools and instructors, including Second City, iO Chicago, UCB, Annoyance Theatre, Susan Messing, Keith Johnstone, TJ & Dave and The Groundlings.
+
+He currently performs with multi award-winning improv troupe The Spontaneous Players, known for their Edinburgh Fringe smash hit show Spontaneous Potter.
+
+As a solo act, he performs improvised hip hop comedy under the rap name [MC Hammersmith](https://www.mchammersmith.com/). In this guise he has won multiple Scottish Comedy Awards, headlines comedy clubs across the UK and internationally, and has supported Jason Manford and John Bishop on tour.
+
+He is a former UK Improv Smackdown Champion and has taught improv for groups, individuals, corporations and festivals worldwide.
+
+![Will Haameh](./will.jpg)
 
 **Alexander Viand**
 
@@ -43,5 +59,14 @@ algebra).
 ![Ohad Kammar](./ohad-kammar-fancy.jpg)
 
 **Tobias Grosser**
+
+Tobias keeps wondering: "what makes great science"? On his way to answering this
+question, Tobias co-founded the [Scientific
+Excellence & Well-Being initiative](http://vmi.ethz.ch/wellbeing/) initiative and
+continues along his quest to demonstrate that focusing "putting the human first"
+is not just healthy, but yields excellent scientific results. Tobias leads a
+[research group on compiler design](https://grosser.science) at the University
+of Edinburgh, where he researches how compilers -- in the broadest sence -- ought
+to be designed in the future.
 
 ![Tobias Grosser](./grosser.jpg)
