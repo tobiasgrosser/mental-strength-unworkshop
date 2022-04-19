@@ -1,7 +1,7 @@
 ---
 title: Crafting Exquisite Ideas!
 date: 2022-04-27 12:00:00 +0000
-end: 2022-04-27 16:00:00 +0000
+end: 2022-04-27 15:00:00 +0000
 description: # Add post description (optional)
 img: ./idea-evolution.jpg
 tags: [EDI]
