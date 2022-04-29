@@ -70,3 +70,29 @@ of Edinburgh, where he researches how compilers -- in the broadest sence -- ough
 to be designed in the future.
 
 ![Tobias Grosser](./grosser.jpg)
+
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/RCceVwJGy1qkGndH9"
+  data-title="Crafting Exquisite Ideas"
+  data-description="19 new items added to shared album">
+  <object data="https://lh3.googleusercontent.com/qhCYZujXpIFFw2uPjKYNIayj2DlbLF-x0VrDxLkccfowyuO2MgP-RC1BAlpGEKZjjXO_ZTDJkN3b14XMzxS8uUSLDKqMU7OmHvC9ptsoJOo69ZSsxbUidGqCXY1yTpHLsBFJT8RjvA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/uux7wpDkQ3NYV2TCkoL4Iyvh8_W7jypGUrpqj6Vcl2slgZ4kRe_1TC42vgg3ty6fOyFXZt-jc9n82evCh3jsPlny7z1UDkMDjKx7eZn6v3VFEL5u_1E2_TZlwymdgX1lpL6hKcceMw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/GCEQNlHjmESwSHiDk9AbsAKYgvMxEQYNph83HB2Wdz-L5igTvGaNbSdx-bflI_AJ4XdGNpiFtEbyY4N4oD2dzE00W04iT4HFGBDySyUfczGss_k_QFs5OF7FmRlAr6ALzamELAKFRg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/r8nranUBSpv2j0KnKffhfGe_Q7Byvph7uo_u4wjCLrUckZiMAp91wesNY0ZMBwfxRSFHSIDlMVrK7y76bfkSQ6MX1NxxGKeCa6eH3FIhTsxgV6rqv5x0WWUhv0SfF_TdN_820IIlXQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/BO8rN9FEtwlGwnAuOYgt7Ue5MJyUcyoevryE2OnquZUitisHNYmdjIL-W9PfcwQAO0jlIc9wZresP6T5GCatFV7o0_obVyNhkO_TO5vmvRCcy5gibGWj8QE7uP20skYYL1X07RcQDg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/ugvDDSuovFuGKGKrWtN4uAehSR_1Ns2JBSY-51XDqijtXZtf0SOMP1YRUwl7hiCIMuimbth-tftKx3PzXU9M5uLN8YUvHDDOppiiRGvpPXpseXsZ4QWCZ8DJT5XRYWzrdt206qUBfQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/4RH-NPYy5sP3ywMFZEAZJ-y-d0maNUE6sdLcD1-zmZLTdX9VQEB2N86uJixBZKwgYiKctCRPwq5027YQXp3gCpoS4-jkO0KgOsOze41-Z1URL7SToxR_-QpM3IzVJ4nlGMzCwtPk3A=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/08g83xUOGjfjqNQ9oeFGWKNXsQZDQQRJZGGDQOQf6_43gIvAFK1pC7dUm7XwqgNhyM5mnx1J-KdDR3EY-gfGYfU3rqTLfkGcAiu5pNe3V0WUY1K74h5dIqxg8eV053o2tNqJlXaznw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/KHREzseUHlgAZhltj25uqyWXLeF37iWc2XWphvbgUR1b9oPrqpoLw7Z5LnGHBRMIOTQzVh5XfeZ9rgEecf_hxknDWEmASz5uHYcKLaOtD8alFDDD1PbnnDWqYQqYL-2zrGYcP8D34A=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/FVlS5YfEV_L12TbDKS-55oQI7_lH3Mlcb5ygXSuMECscCUouOQ4dPgYVi3rmOW54GA8qqNnC0UM6kwLovxOQw_wzorDLe5oUenWD669Q6Pl5suaANJgo8tyCfUyCrXq0netaI07VRw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/XwUzxejDQ8D8o615jVOx43Lx50ERVHvnswdJxzjW4pPznSGbwFi0VWZ-WegFyIalHs1zH3puSRStSKREwJ1WcTzjtlaoimggrZmI5r-fDmadZt2BigHTikskbD11P6EUjTsdp0mjzA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/J3fsGptHcz8xZ_c5eFtj3AMI8MLtKudZopyEuw7mWtClSVY3wZl8bd-79nUrSCvV-6L0nIwzRtxRly2twYfEMDCRqb4LixspmDhqHsWUqhcVifJLLVeKWH7UzQUe4Xj4csf6p26voQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/8roF2HTsisOSrRXGOr5-lSKYLyA1gcAdD7b1__3cL7D4nieMEsVjg7MapS2EKTmVYogyOuUGoDasiIkKJECbL62GcXWpec66zbqSLJUd_ObuFtMQAkY9_OyQDJiPVNFibKL4r2UrOA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/_lXPmictAq50SwLQSM7k5LLRSRD0hhiCLa_6LXUj7FJqA5IK4r87tYmY1HfHXJXOIoNa90sG4hjGr-amZVf_xYSTyaZjXVaAg3YH7fKghAV2qR80pttrdXfYWZ_q_hhzzsfVCx3RQQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/zWAB0plbRrAlcBR_Q5IIEKd2-t5LACxByHIelxDE_GhvNb9Ljg1RJDj1_5rhqdmdDvmFKAcT2uqqjdsYwV3UBL7IjsHF9WDmLwCfw1r6Y99xj57fWRJQkZb2g-PBXP6UuuxXnKAsNA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/y0ZJ0BsOtuKqqATjguNwztOgsKyHmvR0kxVOr21qpSVaoDhLi-tsjYr3Mnvd48Tnx5PfBB8EndDzIGt8wp6qepnbVmGEpEYH8g64vDg8g_LyOQrH4XdSiXh3YVGLzqY4cNdy9HpxAg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/xqXNIX9pl3RbKBWaCzkYEmgpBKvgvabHGilYceE7igD0IQOt7ASwoKpy50GBRFHbgdaBmGBFvbHRazdfWzTr1EytyCzB6cTt-AeCgGeSxsdIqBY83ZYG_yZaaYounrh6hW6j-m7W3w=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/sUU2887gbRcf_lF-JMLbYsItBk7jkWuvmR3UvXsX4EscYNvqHgyEqiYPg6pxevDpalDSncCqjfn-KCCNrDmW_fp5pcDmbk-mu6yQWvdnQZoIVU_rxBN9oZlHDUaJcew8s94echQGA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/WbZDwHwPii7bMdYU5m0fVgpYlwaafNSECBg3CFMECkEz_WqQB38Z8eVG-8FbVSlK0Ke5-CJgFPRpAP8E2NcYEd4vFoeglJQdNOT1wvxuXM7qJ0E9PfjaSt42vxHOQHr6dQgFpbzDOw=w1920-h1080"></object>
+</div>
